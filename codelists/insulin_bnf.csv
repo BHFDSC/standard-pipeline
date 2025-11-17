@@ -1,0 +1,172 @@
+code,description
+0601011A0AAABAB,Insulin aspart 100units/ml inj 3ml cartridges
+0601011A0AAACAC,Insulin aspart 100units/ml inj 3ml pf dispos dev
+0601011A0AAADAD,Insulin aspart 100units/ml inj 1.6ml cartridges
+0601011A0BBABAB,NovoRapid Penfill 100units/ml inj 3ml cartridges
+0601011A0BBADAC,NovoRapid FlexPen 100units/ml inj 3ml pre-filled pens
+0601011A0BBAEAC,NovoRapid FlexTouch 100units/ml inj 3ml pre-filled pens
+0601011A0BBAFAD,NovoRapid PumpCart 100units/ml inj 1.6ml cartridges
+0601011A0BCAAAC,Fiasp FlexTouch 100units/ml inj 3ml pre-filled pens
+0601011A0BCABAB,Fiasp Penfill 100units/ml inj 3ml cartridges
+0601011L0AAAAAA,Insulin lispro 100units/ml inj 1.5ml cartridges
+0601011L0AAACAC,Insulin lispro 100units/ml inj 3ml cartridges
+0601011L0AAAFAF,Insulin lispro 100units/ml inj 3ml pf dispos dev
+0601011L0AAAGAG,Insulin lispro 200units/ml inj 3ml pf dispos dev
+0601011L0BBAAAA,Humalog 100units/ml solution for injection 1.5ml cartridges
+0601011L0BBACAC,Humalog 100units/ml solution for injection 3ml cartridges
+0601011L0BBAFAF,Humalog Pen 100units/ml inj 3ml pre-filled pens
+0601011L0BBAGAF,Humalog KwikPen 100units/ml inj 3ml pre-filled pens
+0601011L0BBAHAG,Humalog KwikPen 200units/ml inj 3ml pre-filled pens
+0601011L0BBAIAF,Humalog Junior KwikPen 100units/ml inj 3ml pre-filled pens
+0601011L0BCABAC,Insulin lispro Sanofi 100units/ml inj 3ml cartridges
+0601011L0BCACAF,Insulin lispro Sanofi 100units/ml inj 3ml pre-filled pens
+0601011L0BDAAAG,Lyumjev KwikPen 200units/ml inj 3ml pre-filled pens
+0601011L0BDABAB,Lyumjev 100units/ml solution for injection 10ml vials
+0601011L0BDACAC,Lyumjev 100units/ml solution for injection 3ml cartridges
+0601011L0BDADAF,Lyumjev KwikPen 100units/ml inj 3ml pre-filled pens
+0601011L0BDAEAF,Lyumjev Junior KwikPen 100units/ml inj 3ml pre-filled pens
+0601011N0AAADAD,Insulin soluble human 100units/ml inj 1.5ml cartridges
+0601011N0AAAMAM,Insulin soluble human 100units/ml inj 3ml pf dispos dev
+0601011N0AAAPAP,Insulin soluble human 100units/ml inj 3ml cartridges
+0601011N0AAATAT,Insulin soluble bovine 100units/ml inj 1.5ml cartridges
+0601011N0AAAUAU,Insulin soluble porcine 100units/ml inj 1.5ml cartridges
+0601011N0AAAYAY,Insulin soluble bovine 100units/ml inj 3ml cartridges
+0601011N0AAAZAZ,Insulin soluble porcine 100units/ml inj 3ml cartridges
+0601011N0BCADAT,Hypurin Bovine Neutral 100units/ml inj 1.5ml cartridges
+0601011N0BCAFAU,Hypurin Porcine Neutral 100units/ml inj 1.5ml cartridges
+0601011N0BCAGAY,Hypurin Bovine Neutral 100units/ml inj 3ml cartridges
+0601011N0BCAHAZ,Hypurin Porcine Neutral 100units/ml inj 3ml cartridges
+0601011N0BFAJAD,Human Actrapid Penfill 100units/ml inj 1.5ml cartridges
+0601011N0BFAQAP,Actrapid Penfill 100units/ml inj 3ml cartridges
+0601011N0BHACAM,HumaJect S Pen 100units/ml solution for injection
+0601011N0BHADAP,Humulin S 100units/ml solution for injection 3ml cartridges
+0601011N0BKABAP,Insuman Rapid 100units/ml inj 3ml cartridges
+0601011N0BKACAM,Insuman Rapid 100units/ml inj 3ml pre-filled OptiSet pens
+0601011P0AAABAB,Insulin glulisine 100units/ml inj 3ml cartridges
+0601011P0AAACAC,Insulin glulisine 100units/ml inj 3ml pf dispos dev
+0601011P0BBABAB,Apidra 100units/ml solution for injection 3ml cartridges
+0601011P0BBACAC,Apidra 100units/ml inj 3ml pre-filled OptiSet pens
+0601011P0BBADAB,Apidra 100units/ml inj 3ml OptiClik cartridges
+0601011P0BBAEAC,Apidra 100units/ml inj 3ml pre-filled SoloStar pens
+0601011Q0AAAAAA,Insulin human 1mg inhalation powder blisters
+0601011Q0AAABAB,Insulin human 3mg inhalation powder blisters
+0601011Q0BBAAAA,Exubera 1mg inhalation powder blisters
+0601011Q0BBABAB,Exubera 3mg inhalation powder blisters
+0601011R0AAACAC,Insulin human 100units/ml inj 3.15ml cartridges
+0601011R0AAAEAE,Insulin human 500units/ml inj 3ml pf dispos dev
+0601011R0BDAAAC,Insuman Infusat 100units/ml inj 3.15ml cartridges
+0601011R0BEAAAE,Humulin R KwikPen 500units/ml inj 3ml pre-filled pens
+0601012ABAAAAAA,Ins glargine 100u/ml / Lixis 33mcg/ml inj 3ml pf dispos dev
+0601012ABAAABAB,Ins glargine 100u/ml / Lixis 50mcg/ml inj 3ml pf dispos dev
+0601012ABBBAAAA,Suliqua 100units/ml / 33microg/ml inj 3ml pf SoloStar pens
+0601012ABBBABAB,Suliqua 100units/ml / 50microg/ml inj 3ml pf SoloStar pens
+0601012D0AAA2A2,Insulin isophane biphasic human 50/50 100u/ml inj 1.5ml cart
+0601012D0AAA3A3,Insulin isoph biphas hum 20/80 100u/ml inj 3ml pf dispos dev
+0601012D0AAAIAI,Insulin isophane biphas porc 30/70 100units/ml inj 10ml
+0601012D0AAAJAJ,Insulin isophane biphas hum 30/70 100units/ml inj 1.5ml cart
+0601012D0AAAZAZ,Insulin isophane biphasic human 20/80 100u/ml inj 3ml cart
+0601012D0AABABA,Insulin isophane biphasic human 30/70 100u/ml inj 3ml cart
+0601012D0AABDBD,Insulin isophane biphas porcine 30/70 100u/ml inj 1.5ml cart
+0601012D0AABEBE,Insulin isophane biphasic human 20/80 100u/ml inj 1.5ml cart
+0601012D0AABHBH,Insulin isoph biphas hum 40/60 100u/ml inj 3ml pf dispos dev
+0601012D0AABIBI,Insulin isophane biphasic human 10/90 100u/ml inj 3ml cart
+0601012D0AABJBJ,Insulin isophane biphasic human 10/90 100u/ml inj 1.5ml cart
+0601012D0AABKBK,Insulin isophane biphasic human 40/60 100u/ml inj 3ml cart
+0601012D0AABLBL,Insulin isophane biphasic human 40/60 100u/ml inj 1.5ml cart
+0601012D0AABNBN,Insulin isophane biphasic human 25/75 100u/ml inj 3ml cart
+0601012D0AABQBQ,Insulin isoph biphas hum 10/90 100u/ml inj 3ml pf dispos dev
+0601012D0AABSBS,Insulin isophane biphasic human 15/85 100u/ml inj 3ml cart
+0601012D0AABUBU,Insulin isophane biphasic human 50/50 100u/ml inj 3ml cart
+0601012D0AABVBV,Insulin isoph biphas hum 15/85 100u/ml inj 3ml pf dispos dev
+0601012D0AABWBW,Insulin isoph biphas hum 25/75 100u/ml inj 3ml pf dispos dev
+0601012D0AABXBX,Ins isoph biphas hum 50/50 100u/ml inj 3ml pf dispos dev
+0601012D0AABYBY,Insulin isophane biphasic porcine 30/70 100u/ml inj 3ml cart
+0601012D0AABZBZ,Insulin isoph biphas hum 30/70 100u/ml inj 3ml pf dispos dev
+0601012D0BBAMBZ,HumaJect M3 Pen 100units/ml suspension for injection
+0601012D0BBARAZ,Humulin M2 100units/ml inj 3ml cartridges
+0601012D0BBASBA,Humulin M3 100units/ml inj 3ml cartridges
+0601012D0BBAUBZ,Humulin M3 Pen 100units/ml inj 3ml pre-filled pens
+0601012D0BBAVBZ,Humulin M3 KwikPen 100units/ml inj 3ml pre-filled pens
+0601012D0BCALAJ,Human Mixtard 30 Penfill 100units/ml inj 1.5ml cartridges
+0601012D0BCAMBJ,Human Mixtard 10 Penfill 100units/ml inj 1.5ml cartridges
+0601012D0BCANBE,Human Mixtard 20 Penfill 100units/ml inj 1.5ml cartridges
+0601012D0BCAPBL,Human Mixtard 40 Penfill 100units/ml inj 1.5ml cartridges
+0601012D0BCAQA2,Human Mixtard 50 Penfill 100units/ml inj 1.5ml cartridges
+0601012D0BCARBZ,Mixtard 30 NovoLet 100units/ml suspension for injection
+0601012D0BCASBQ,Mixtard 10 NovoLet 100units/ml suspension for injection
+0601012D0BCATA3,Mixtard 20 NovoLet 100units/ml suspension for injection
+0601012D0BCAUBH,Mixtard 40 NovoLet 100units/ml suspension for injection
+0601012D0BCAVBX,Mixtard 50 NovoLet 100units/ml suspension for injection
+0601012D0BCAYBI,Mixtard 10 Penfill 100units/ml inj 3ml cartridges
+0601012D0BCAZAZ,Mixtard 20 Penfill 100units/ml inj 3ml cartridges
+0601012D0BCBABA,Mixtard 30 Penfill 100units/ml inj 3ml cartridges
+0601012D0BCBBBK,Mixtard 40 Penfill 100units/ml inj 3ml cartridges
+0601012D0BCBCBU,Mixtard 50 Penfill 100units/ml inj 3ml cartridges
+0601012D0BCBDBZ,Mixtard 30 InnoLet 100units/ml inj 3ml pre-filled pens
+0601012D0BEAHBD,Hypurin Porcine 30/70 Mix 100units/ml inj 1.5ml cartridges
+0601012D0BEAIBY,Hypurin Porcine 30/70 Mix 100units/ml inj 3ml cartridges
+0601012D0BGABBN,Insuman Comb 25 100units/ml inj 3ml cartridges
+0601012D0BGADBS,Insuman Comb 15 100units/ml inj 3ml cartridges
+0601012D0BGAFBU,Insuman Comb 50 100units/ml inj 3ml cartridges
+0601012D0BGAGBV,Insuman Comb 15 100units/ml inj 3ml pre-filled OptiSet pens
+0601012D0BGAHBW,Insuman Comb 25 100units/ml inj 3ml pre-filled OptiSet pens
+0601012D0BGAIBX,Insuman Comb 50 100units/ml inj 3ml pre-filled OptiSet pens
+0601012D0BGAJBW,Insuman Comb 25 100units/ml inj 3ml pre-filled SoloStar pens
+0601012F0AAAAAA,Insulin lispro biphasic 25/75 100u/ml inj 3ml pf dispos dev
+0601012F0AAABAB,Insulin lispro biphasic 25/75 100units/ml inj 3ml cartridges
+0601012F0AAACAC,Insulin lispro biphasic 50/50 100u/ml inj 3ml pf dispos dev
+0601012F0AAADAD,Insulin lispro biphasic 50/50 100units/ml inj 3ml cartridges
+0601012F0BBAAAA,Humalog Mix25 Pen 100units/ml inj 3ml pre-filled pens
+0601012F0BBABAB,Humalog Mix25 100units/ml inj 3ml cartridges
+0601012F0BBACAC,Humalog Mix50 Pen 100units/ml inj 3ml pre-filled pens
+0601012F0BBADAD,Humalog Mix50 100units/ml inj 3ml cartridges
+0601012F0BBAEAA,Humalog Mix25 KwikPen 100units/ml inj 3ml pre-filled pens
+0601012F0BBAFAC,Humalog Mix50 KwikPen 100units/ml inj 3ml pre-filled pens
+0601012S0AAALAL,Insulin isophane human 100units/ml inj 3ml cartridges
+0601012S0AAAMAM,Insulin isophane human 100units/ml inj 1.5ml cartridges
+0601012S0AAANAN,Insulin isophane bovine 100units/ml inj 1.5ml cartridges
+0601012S0AAAPAP,Insulin isophane porcine 100units/ml inj 1.5ml cartridges
+0601012S0AAASAS,Insulin isophane bovine 100units/ml inj 3ml cartridges
+0601012S0AAATAT,Insulin isophane porcine 100units/ml inj 3ml cartridges
+0601012S0BCADAN,Hypurin Bovine Isophane 100units/ml inj 1.5ml cartridges
+0601012S0BCAFAP,Hypurin Porcine Isophane 100units/ml inj 1.5ml cartridges
+0601012S0BCAGAS,Hypurin Bovine Isophane 100units/ml inj 3ml cartridges
+0601012S0BCAHAT,Hypurin Porcine Isophane 100units/ml inj 3ml cartridges
+0601012S0BDAKAM,Human Insulatard Penfill 100units/ml inj 1.5ml cartridges
+0601012S0BDALAL,Insulatard Penfill 100units/ml inj 3ml cartridges
+0601012S0BDAMAI,Insulatard InnoLet 100units/ml inj 3ml pre-filled pens
+0601012S0BDANAI,Insulatard FlexPen 100units/ml suspension for injection
+0601012S0BGADAL,Humulin I 100units/ml inj 3ml cartridges
+0601012S0BGAEAI,Humulin I Pen 100units/ml inj 3ml pre-filled pens
+0601012S0BGAFAI,Humulin I KwikPen 100units/ml inj 3ml pre-filled pens
+0601012S0BIABAL,Insuman Basal 100units/ml inj 3ml cartridges
+0601012S0BIACAI,Insuman Basal 100units/ml inj 3ml pre-filled OptiSet pens
+0601012S0BIADAI,Insuman Basal 100units/ml inj 3ml pre-filled SoloStar pens
+0601012V0AAAAAA,Insulin glargine 100units/ml inj 3ml cartridges
+0601012V0AAADAD,Insulin glargine 100units/ml inj 3ml pf dispos dev
+0601012V0AAAEAE,Insulin glargine 300units/ml inj 1.5ml pf dispos dev
+0601012V0AAAFAF,Insulin glargine 300units/ml inj 3ml pf disposable devices
+0601012V0BBAAAA,Lantus 100units/ml solution for injection 3ml cartridges
+0601012V0BBACAD,Lantus 100units/ml inj 3ml pre-filled OptiSet pens
+0601012V0BBADAA,Lantus 100units/ml inj 3ml OptiClik cartridges
+0601012V0BBAEAD,Lantus 100units/ml inj 3ml pre-filled SoloStar pens
+0601012V0BCAAAE,Toujeo 300units/ml inj 1.5ml pre-filled SoloStar pens
+0601012V0BCABAF,Toujeo 300units/ml inj 3ml pre-filled DoubleStar pens
+0601012V0BDABAA,Abasaglar 100units/ml solution for injection 3ml cartridges
+0601012V0BDACAD,Abasaglar KwikPen 100units/ml inj 3ml pre-filled pens
+0601012V0BEAAAD,Semglee 100units/ml inj 3ml pre-filled pens
+0601012W0AAAAAA,Insulin aspart biphasic 30/70 100units/ml inj 3ml cartridges
+0601012W0AAABAB,Insulin aspart biphasic 30/70 100u/ml inj 3ml pf dispos dev
+0601012W0BBAAAA,NovoMix 30 Penfill 100units/ml inj 3ml cartridges
+0601012W0BBABAB,NovoMix 30 FlexPen 100units/ml inj 3ml pre-filled pens
+0601012X0AAAAAA,Insulin detemir 100units/ml inj 3ml cartridges
+0601012X0AAABAB,Insulin detemir 100units/ml inj 3ml pf dispos dev
+0601012X0BBAAAA,Levemir Penfill 100units/ml inj 3ml cartridges
+0601012X0BBABAB,Levemir FlexPen 100units/ml inj 3ml pre-filled pens
+0601012X0BBACAB,Levemir InnoLet 100units/ml inj 3ml pre-filled pens
+0601012Z0AAAAAA,Insulin degludec 100units/ml inj 3ml cartridges
+0601012Z0AAABAB,Insulin degludec 100units/ml inj 3ml pf dispos dev
+0601012Z0AAACAC,Insulin degludec 200units/ml inj 3ml pf dispos dev
+0601012Z0BBAAAA,Tresiba Penfill 100units/ml inj 3ml cartridges
+0601012Z0BBABAB,Tresiba FlexTouch 100units/ml inj 3ml pre-filled pens
+0601012Z0BBACAC,Tresiba FlexTouch 200units/ml inj 3ml pre-filled pens
