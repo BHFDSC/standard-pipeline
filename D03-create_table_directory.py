@@ -1,4 +1,3 @@
-# Databricks notebook source
 # MAGIC %md
 # MAGIC ## Create table directory
 # MAGIC
