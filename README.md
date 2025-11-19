@@ -23,6 +23,11 @@ The pipeline implements best practices for:
 - **Reusable Functions**: Comprehensive library of data processing utilities
 - **Archive Management**: Consistent data snapshot selection across tables
 
+ ## Databricks visualisation of workflows job
+This image shows the duration of each task within the standard pipeline workflow.
+
+![demo_pipeline_cascade](https://github.com/BHFDSC/standard-pipeline/blob/add-visuals-to-readme/screenshots/demopipeline_cascade.png)
+
 ## Project Structure
 
 ```
