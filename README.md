@@ -231,6 +231,12 @@ When contributing to this pipeline:
 
 This project is intended for use within NHS Digital's Trusted Research Environment. Ensure compliance with data access agreements and information governance policies.
 
+## How to cite
+
+Please cite all uses of this pipeline, e.g.
+“Data curation was conducted using the BHF Data Science Centre standard pipeline (British Heart Foundation Data Science Centre at Health Data Research UK), available at https://github.com/BHFDSC/standard-pipeline, accessed 29 July 2025.”
+For additional information see our Publication and Dissemination Policy (https://bhfdatasciencecentre.org/publication-and-dissemination-policy/)
+
 ## Support
 
 For questions or issues:
